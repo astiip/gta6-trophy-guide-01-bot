@@ -2,391 +2,1225 @@
  "game": "Grand Theft Auto VI",
  "platform": "PlayStation 5",
  "list": "the official 55 trophies, 2026-11-18",
+ "sources": [
+  {"n": 0, "name": "Official list", "title": "The official 55 PlayStation trophies, as shipped in the make.fun kit", "url": ""},
+  {"n": 1, "name": "PowerPyx", "title": "GTA 6 Trophy Guide & Roadmap", "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/"},
+  {"n": 2, "name": "KeenGamer", "title": "GTA 6 Trophy Guide & Platinum Roadmap — All 55 Trophies", "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/"},
+  {"n": 3, "name": "eGamers", "title": "GTA 6 Trophy List: All 55 Trophies And Achievements, Plus The Hardest Ones", "url": "https://egamers.io/gta-6-trophy-list-all-55-trophies-and-achievements-plus-the-hardest-ones/"},
+  {"n": 4, "name": "GTA-Zone", "title": "GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://gta-zone.com/news/gta-6-trophies-achievements/"},
+  {"n": 5, "name": "GTA Vibes", "title": "GTA 6 Trophy List: All 55 Trophies and Achievements", "url": "https://www.gtavibes.com/guides/gta-6-trophy-list-achievements"}
+ ],
  "trophies": [
   {
    "id": 1,
    "name": "Vice Got a Price!",
    "description": "Congratulations! You're a Leonida Legend.",
    "grade": "platinum",
-   "guide": "Earn the other 54 trophies."
+   "hidden": false,
+   "kind": "misc",
+   "stage": "S7",
+   "count": null,
+   "countLabel": null,
+   "missable": false,
+   "watch": false,
+   "unconfirmed": false,
+   "disagree": false,
+   "singleSource": false,
+   "short": "Platinum otomatis begitu 54 trofi lainnya sudah didapat.",
+   "guide": "Earn the other 54 trophies; this one pops on its own the moment the last one lands.",
+   "steps": [
+    {"text": "Dapatkan 54 trofi lainnya; trofi ini pop sendiri begitu yang terakhir masuk.", "sources": [0]}
+   ]
   },
   {
    "id": 2,
    "name": "Just Like Paradise",
    "description": "Complete Gone Fishing.",
    "grade": "bronze",
-   "guide": "Finish the opening mission, Gone Fishing."
+   "hidden": true,
+   "kind": "story",
+   "stage": "S1",
+   "count": null,
+   "countLabel": null,
+   "missable": false,
+   "watch": false,
+   "unconfirmed": false,
+   "disagree": false,
+   "singleSource": false,
+   "short": "Tamatkan misi pembuka Gone Fishing.",
+   "guide": "Finish the opening mission, Gone Fishing.",
+   "steps": [
+    {"text": "Mainkan misi pembuka Gone Fishing sampai selesai; trofi pop di akhir misi.", "sources": [0, 1]}
+   ]
   },
   {
    "id": 3,
    "name": "Paradise Lost",
    "description": "Complete Chapter 1.",
    "grade": "bronze",
-   "guide": "Finish Chapter 1."
+   "hidden": true,
+   "kind": "story",
+   "stage": "S1",
+   "count": null,
+   "countLabel": null,
+   "missable": false,
+   "watch": false,
+   "unconfirmed": false,
+   "disagree": false,
+   "singleSource": false,
+   "short": "Tamatkan Chapter 1.",
+   "guide": "Finish Chapter 1.",
+   "steps": [
+    {"text": "Tamatkan Chapter 1; trofi pop begitu chapter ditutup.", "sources": [0, 1]}
+   ]
   },
   {
    "id": 4,
    "name": "T**s Ass Drug Money",
    "description": "Complete Chapter 2.",
    "grade": "bronze",
-   "guide": "Finish Chapter 2."
+   "hidden": true,
+   "kind": "story",
+   "stage": "S2",
+   "count": null,
+   "countLabel": null,
+   "missable": false,
+   "watch": false,
+   "unconfirmed": false,
+   "disagree": false,
+   "singleSource": false,
+   "short": "Tamatkan Chapter 2.",
+   "guide": "Finish Chapter 2.",
+   "steps": [
+    {"text": "Tamatkan Chapter 2; trofi pop di akhir chapter.", "sources": [0, 1]}
+   ]
   },
   {
    "id": 5,
    "name": "Vice City, Baby!",
    "description": "Complete Chapter 3.",
    "grade": "bronze",
-   "guide": "Finish Chapter 3."
+   "hidden": true,
+   "kind": "story",
+   "stage": "S3",
+   "count": null,
+   "countLabel": null,
+   "missable": false,
+   "watch": false,
+   "unconfirmed": false,
+   "disagree": false,
+   "singleSource": false,
+   "short": "Tamatkan Chapter 3.",
+   "guide": "Finish Chapter 3.",
+   "steps": [
+    {"text": "Tamatkan Chapter 3; menurut PowerPyx chapter ditutup setelah misi Ocean Beach dan Another Life.", "sources": [0, 1]}
+   ]
   },
   {
    "id": 6,
    "name": "Top Of The World, Ma",
    "description": "Complete Chapter 4.",
    "grade": "bronze",
-   "guide": "Finish Chapter 4."
+   "hidden": true,
+   "kind": "story",
+   "stage": "S4",
+   "count": null,
+   "countLabel": null,
+   "missable": false,
+   "watch": false,
+   "unconfirmed": false,
+   "disagree": false,
+   "singleSource": false,
+   "short": "Tamatkan Chapter 4.",
+   "guide": "Finish Chapter 4.",
+   "steps": [
+    {"text": "Tamatkan Chapter 4; misi terakhirnya Starting From Zero.", "sources": [0, 1]}
+   ]
   },
   {
    "id": 7,
    "name": "You Gotta Know When to Get Off",
    "description": "Complete the final mission.",
    "grade": "gold",
-   "guide": "Finish the final mission (gold)."
+   "hidden": true,
+   "kind": "story",
+   "stage": "S4",
+   "count": null,
+   "countLabel": null,
+   "missable": false,
+   "watch": false,
+   "unconfirmed": false,
+   "disagree": true,
+   "singleSource": false,
+   "short": "Tamatkan misi final cerita.",
+   "guide": "Finish the final mission of the story.",
+   "steps": [
+    {"text": "Tamatkan misi final cerita; trofi pop di akhir.", "sources": [0, 1]},
+    {"text": "Catatan: satu sumber menyebut ini Chapter 5, sumber lain menyebut misi final — redaksinya beda, momennya sama.", "sources": [3]}
+   ]
   },
   {
    "id": 8,
    "name": "Trust",
    "description": "Complete Breakfast Run.",
    "grade": "bronze",
-   "guide": "Finish the mission Breakfast Run."
+   "hidden": true,
+   "kind": "story",
+   "stage": "S2",
+   "count": null,
+   "countLabel": null,
+   "missable": false,
+   "watch": false,
+   "unconfirmed": false,
+   "disagree": false,
+   "singleSource": false,
+   "short": "Selesaikan misi Breakfast Run di Chapter 2.",
+   "guide": "Finish the mission Breakfast Run in Chapter 2.",
+   "steps": [
+    {"text": "Selesaikan misi Breakfast Run di Chapter 2.", "sources": [0, 1]}
+   ]
   },
   {
    "id": 9,
    "name": "Break the Bank",
    "description": "Complete The Cartel Heist.",
    "grade": "bronze",
-   "guide": "Finish the mission The Cartel Heist."
+   "hidden": true,
+   "kind": "story",
+   "stage": "S3",
+   "count": null,
+   "countLabel": null,
+   "missable": false,
+   "watch": false,
+   "unconfirmed": false,
+   "disagree": false,
+   "singleSource": false,
+   "short": "Selesaikan misi The Cartel Heist di Chapter 3.",
+   "guide": "Finish the mission The Cartel Heist in Chapter 3.",
+   "steps": [
+    {"text": "Selesaikan misi The Cartel Heist di Chapter 3.", "sources": [0, 1]}
+   ]
   },
   {
    "id": 10,
    "name": "Family Matters",
    "description": "Complete Child's Play.",
    "grade": "bronze",
-   "guide": "Finish the mission Child's Play."
+   "hidden": true,
+   "kind": "story",
+   "stage": "S4",
+   "count": null,
+   "countLabel": null,
+   "missable": false,
+   "watch": false,
+   "unconfirmed": false,
+   "disagree": false,
+   "singleSource": false,
+   "short": "Selesaikan misi Child's Play di Chapter 4.",
+   "guide": "Finish the mission Child's Play in Chapter 4.",
+   "steps": [
+    {"text": "Selesaikan misi Child's Play di Chapter 4.", "sources": [0, 1]}
+   ]
   },
   {
    "id": 11,
    "name": "DWNFALL",
    "description": "Complete Headliners.",
    "grade": "bronze",
-   "guide": "Finish the mission Headliners."
+   "hidden": true,
+   "kind": "story",
+   "stage": "S4",
+   "count": null,
+   "countLabel": null,
+   "missable": false,
+   "watch": false,
+   "unconfirmed": false,
+   "disagree": false,
+   "singleSource": false,
+   "short": "Selesaikan misi Headliners di Chapter 4.",
+   "guide": "Finish the mission Headliners in Chapter 4.",
+   "steps": [
+    {"text": "Selesaikan misi Headliners di Chapter 4.", "sources": [0, 1]}
+   ]
   },
   {
    "id": 12,
    "name": "Hi-Jacked",
    "description": "Complete VCIA Takedown.",
    "grade": "bronze",
-   "guide": "Finish the mission VCIA Takedown."
+   "hidden": true,
+   "kind": "story",
+   "stage": "S4",
+   "count": null,
+   "countLabel": null,
+   "missable": false,
+   "watch": false,
+   "unconfirmed": false,
+   "disagree": false,
+   "singleSource": false,
+   "short": "Selesaikan misi VCIA Takedown di Chapter 4.",
+   "guide": "Finish the mission VCIA Takedown in Chapter 4.",
+   "steps": [
+    {"text": "Selesaikan misi VCIA Takedown di Chapter 4.", "sources": [0, 1]}
+   ]
   },
   {
    "id": 13,
    "name": "Snow Storm",
    "description": "Complete Operation Savage Glory.",
    "grade": "bronze",
-   "guide": "Finish the mission Operation Savage Glory."
+   "hidden": true,
+   "kind": "story",
+   "stage": "S4",
+   "count": null,
+   "countLabel": null,
+   "missable": false,
+   "watch": false,
+   "unconfirmed": false,
+   "disagree": false,
+   "singleSource": false,
+   "short": "Selesaikan misi Operation Savage Glory.",
+   "guide": "Finish the mission Operation Savage Glory.",
+   "steps": [
+    {"text": "Selesaikan misi Operation Savage Glory.", "sources": [0, 1]}
+   ]
   },
   {
    "id": 14,
    "name": "A Long Road",
    "description": "Attain 100% Completion.",
    "grade": "gold",
-   "guide": "Reach 100% completion (gold)."
-  },
+   "hidden": false,
+   "kind": "misc",
+   "stage": "S7",
+   "count": 100,
+   "countLabel": "100% completion",
+   "missable": false,
+   "watch": false,
+   "unconfirmed": false,
+   "disagree": false,
+   "singleSource": false,
+   "short": "Capai 100% Completion lewat checklist resmi game.",
+   "guide": "Reach 100% completion through the game's official checklist.",
+   "steps": [
+    {"text": "Setelah credits, buka Progress > Stats > 100% Completion untuk melihat checklist resminya.", "sources": [1, 2]},
+    {"text": "Kerjakan checklist sampai 100%: misi opsional 100, gang ops 39/39, bank jobs 22/22, dan semua kategori lain sampai angka targetnya.", "sources": [1, 2]},
+    {"text": "Progres selama story sudah dihitung, dan angka checklist baru terlihat setelah story tamat.", "sources": [1, 2]}
+   ]
+  }
+,
   {
    "id": 15,
    "name": "Cunning Stunts",
    "description": "Complete 250 Stunts.",
    "grade": "silver",
-   "guide": "Pull off 250 stunts (silver)."
+   "hidden": false,
+   "kind": "activity",
+   "stage": "S6",
+   "count": 250,
+   "countLabel": "stunts",
+   "missable": false,
+   "watch": false,
+   "unconfirmed": false,
+   "disagree": false,
+   "singleSource": false,
+   "short": "Lakukan 250 stunt dari 397 yang ada.",
+   "guide": "Pull off 250 stunts out of the 397 in the game.",
+   "steps": [
+    {"text": "Lakukan 250 stunt dari total 397; untuk 100% perlu 300. Empat jenisnya: 130 stunt jumps, 202 under the bridges, 40 knife flights, 25 base jumps.", "sources": [1, 2, 3]},
+    {"text": "Under the bridges paling cepat diselesaikan; lacak lewat Progress > Activities > Stunts dan lihat titiknya di Map > Exploration > Stunt Spots.", "sources": [1, 2]}
+   ]
   },
   {
    "id": 16,
    "name": "Master of None",
    "description": "Try each type of activity once.",
    "grade": "bronze",
-   "guide": "Try all 9 activity types once."
+   "hidden": false,
+   "kind": "activity",
+   "stage": "S6",
+   "count": 9,
+   "countLabel": "activity types",
+   "missable": false,
+   "watch": false,
+   "unconfirmed": false,
+   "disagree": false,
+   "singleSource": false,
+   "short": "Coba sekali tiap jenis dari 9 aktivitas.",
+   "guide": "Try each of the 9 activity types once.",
+   "steps": [
+    {"text": "Coba sekali tiap jenis dari 9 aktivitas: Fishing, Hunting, Golf, Shooting Ranges, Pool, Basketball (masukkan bola), Video Game, menangkan Car Race / Race Challenge / Top Fun Drone Race, dan Perform a Stunt.", "sources": [1, 2]},
+    {"text": "Lacak yang sudah dicoba di Touchpad > Progress > Activities.", "sources": [1, 2]}
+   ]
   },
   {
    "id": 17,
    "name": "The Shootist",
    "description": "Earn a gold medal in all Shooting Range challenges.",
    "grade": "silver",
-   "guide": "Gold all 42 Shooting Range challenges (silver)."
+   "hidden": false,
+   "kind": "activity",
+   "stage": "S6",
+   "count": 42,
+   "countLabel": "gold medals",
+   "missable": false,
+   "watch": false,
+   "unconfirmed": false,
+   "disagree": false,
+   "singleSource": false,
+   "short": "Raih emas di semua 42 Shooting Range challenge.",
+   "guide": "Earn a gold medal in all 42 Shooting Range challenges.",
+   "steps": [
+    {"text": "Raih medali emas di semua 42 Shooting Range challenge di 12 lokasi range.", "sources": [1, 2, 3]}
+   ]
   },
   {
    "id": 18,
    "name": "Top Fun",
    "description": "Win a Top Fun Drone Race at every location.",
    "grade": "bronze",
-   "guide": "Win a Top Fun drone race at all 14 locations."
+   "hidden": false,
+   "kind": "activity",
+   "stage": "S6",
+   "count": 14,
+   "countLabel": "locations",
+   "missable": false,
+   "watch": false,
+   "unconfirmed": false,
+   "disagree": false,
+   "singleSource": false,
+   "short": "Menangkan satu Top Fun Drone Race di tiap lokasi.",
+   "guide": "Win one Top Fun Drone Race at every location.",
+   "steps": [
+    {"text": "Menangkan satu Top Fun Drone Race di tiap lokasi: 14 lokasi, 42 balapan total (42 untuk 100%).", "sources": [1, 2, 3]}
+   ]
   },
   {
    "id": 19,
    "name": "Earn Cash, Not Kudos",
    "description": "Win 20 different races.",
    "grade": "bronze",
-   "guide": "Win 20 different races."
+   "hidden": false,
+   "kind": "activity",
+   "stage": "S6",
+   "count": 20,
+   "countLabel": "different races won",
+   "missable": false,
+   "watch": false,
+   "unconfirmed": false,
+   "disagree": false,
+   "singleSource": false,
+   "short": "Menangkan 20 balapan berbeda.",
+   "guide": "Win 20 different races.",
+   "steps": [
+    {"text": "Menangkan 20 balapan berbeda dari 40 yang ada (30 untuk 100%); balapan yang sama dimenangkan dua kali tidak dihitung dua kali.", "sources": [1, 2, 4]}
+   ]
   },
   {
    "id": 20,
    "name": "Baited My Tackle",
    "description": "Beat Cal in a fishing challenge.",
    "grade": "bronze",
-   "guide": "Beat Cal in a fishing challenge."
+   "hidden": false,
+   "kind": "activity",
+   "stage": "S1",
+   "count": null,
+   "countLabel": null,
+   "missable": false,
+   "watch": false,
+   "unconfirmed": false,
+   "disagree": false,
+   "singleSource": false,
+   "short": "Kalahkan Cal dalam fishing challenge.",
+   "guide": "Beat Cal in a fishing challenge.",
+   "steps": [
+    {"text": "Setelah misi Ch1 Feng Shui (Meet Cal), Cal mengirim SMS menantang memancing.", "sources": [1, 4]},
+    {"text": "Datangi lokasi memancing di barat Key Lento (ikon ungu) dan kalahkan Cal dalam fishing challenge.", "sources": [1, 4]}
+   ]
   },
   {
    "id": 21,
    "name": "Stick Fiddler",
    "description": "Complete an arcade game.",
    "grade": "bronze",
-   "guide": "Finish one arcade game."
+   "hidden": false,
+   "kind": "activity",
+   "stage": "S1",
+   "count": null,
+   "countLabel": null,
+   "missable": false,
+   "watch": false,
+   "unconfirmed": false,
+   "disagree": false,
+   "singleSource": false,
+   "short": "Selesaikan satu arcade game.",
+   "guide": "Finish one arcade game.",
+   "steps": [
+    {"text": "Selesaikan satu arcade game. Empat game Video Games: Tenebrae Lux, Street Trash III, Time Jackers Rewind (TV di rumah, sejak Ch1), dan Bang For Your Buck (mesin arcade di dunia).", "sources": [1, 2]},
+    {"text": "Tamatkan semua level game itu sekali; challengenya tidak perlu diselesaikan semua.", "sources": [1, 2]}
+   ]
   },
   {
    "id": 22,
    "name": "Road to Rehabilitation",
    "description": "Complete the final mission for Andy.",
    "grade": "bronze",
-   "guide": "Finish Andy's last mission."
+   "hidden": true,
+   "kind": "misc",
+   "stage": "S5",
+   "count": null,
+   "countLabel": null,
+   "missable": false,
+   "watch": true,
+   "unconfirmed": false,
+   "disagree": false,
+   "singleSource": false,
+   "short": "Tamatkan questline Andy (Lucia-only, Ch3).",
+   "guide": "Finish Andy's questline (Lucia-only, Chapter 3).",
+   "steps": [
+    {"text": "Quest Lucia-only di Ch3: Andy menelepon dan mengirim alamat rumahnya di Belville.", "sources": [1]},
+    {"text": "Kerjakan 5 quest Andy: Climbing the Cellerichain (1-3), Pay the Cellerica Fee, Peach! (Join the Cellerica Initiation), Read the Label (Retrieve the Cellerica Van), dan Puff Puff Pass (Meet at the Warehouse).", "sources": [1]},
+    {"text": "Misi terakhirnya tetap tersedia setelah story tamat.", "sources": [1]}
+   ]
   },
   {
    "id": 23,
    "name": "This Was No Boat Accident",
    "description": "Complete the final mission for Kenton.",
    "grade": "bronze",
-   "guide": "Finish Kenton's last mission."
+   "hidden": true,
+   "kind": "misc",
+   "stage": "S5",
+   "count": null,
+   "countLabel": null,
+   "missable": false,
+   "watch": true,
+   "unconfirmed": false,
+   "disagree": false,
+   "singleSource": false,
+   "short": "Tamatkan questline Kenton dan 7 shipwreck-nya.",
+   "guide": "Finish Kenton's questline and his 7 shipwrecks.",
+   "steps": [
+    {"text": "Questline berjalan otomatis sejak Ch1; setelah misi Island Dreams (Work for Kenton), Kenton menelepon dan ikon hijau KR muncul di Key Lento.", "sources": [1]},
+    {"text": "Selami 7 shipwreck dan cari harta dengan treasure diving dan metal detector; lacak di Progress > Characters > Kenton Rees dan Collections > Kenton's Treasures.", "sources": [1]},
+    {"text": "Kenton sempat tidak tersedia setelah Ch1 lalu kembali di Ch2-Ch3; menelepon Brian sebagai Jason mempercepat kembalinya.", "sources": [1]}
+   ]
   },
   {
    "id": 24,
    "name": "The Lone Rider",
    "description": "Complete the final mission for Billy.",
    "grade": "bronze",
-   "guide": "Finish Billy's last mission."
+   "hidden": true,
+   "kind": "misc",
+   "stage": "S5",
+   "count": null,
+   "countLabel": null,
+   "missable": false,
+   "watch": true,
+   "unconfirmed": false,
+   "disagree": false,
+   "singleSource": false,
+   "short": "Tamatkan questline Billy di Thrillbilly Mudclub.",
+   "guide": "Finish Billy's questline at the Thrillbilly Mudclub.",
+   "steps": [
+    {"text": "Questline berjalan otomatis setelah misi Ch2 Coffee Break; lokasinya Thrillbilly Mudclub, Kelly County.", "sources": [1]},
+    {"text": "Kerjakan 5 quest Billy: Thrillbillies, Twist Wrist Smash Grab, Mall Rats, The Impaler, dan Hometown Heroes.", "sources": [1]},
+    {"text": "Misi terakhirnya tersedia setelah story tamat.", "sources": [1]}
+   ]
   },
   {
    "id": 25,
    "name": "Strangers & Freaks",
    "description": "Complete 8 mission strands for strangers across the state of Leonida.",
    "grade": "silver",
-   "guide": "Finish 8 stranger strands (silver)."
+   "hidden": false,
+   "kind": "misc",
+   "stage": "S5",
+   "count": 8,
+   "countLabel": "stranger strands",
+   "missable": false,
+   "watch": true,
+   "unconfirmed": false,
+   "disagree": false,
+   "singleSource": false,
+   "short": "Selesaikan 8 mission strand stranger yang dihitung.",
+   "guide": "Finish the 8 stranger mission strands that count.",
+   "steps": [
+    {"text": "Selesaikan 8 mission strand stranger yang dihitung: Kirk (Skunk Ape: Skunk Apeology 101, Tree Effigies, Advanced Skunk Apeonomics), Kyle (McKittrick Farm, Collect Chemicals, Buddy?), Yago (Join a Street Race, Bumper to Bumper, Race Against Yago, Brother to Brother), dan Pilot Pete (The Last Mile: Passing the Torch, Backseat Pilot, Pete's Deliveries: Southpoint Airfield, Avery Allen & Co., Deliver Packages).", "sources": [1, 4]},
+    {"text": "Yang TIDAK dihitung: Moses, Tyrone, Yasmani, Andy, Billy, dan Eddie — jangan buang waktu mengejar mereka untuk trofi ini.", "sources": [1, 4]},
+    {"text": "Peringatan satu sumber (TechWiser via eGamers): rantai misi stranger ini punya jendela terkait progres story — mulai tiap rantai segera setelah terbuka, untuk aman.", "sources": [3]}
+   ]
   },
   {
    "id": 26,
    "name": "Supply & Demand",
    "description": "Complete the final mission for Randy.",
    "grade": "bronze",
-   "guide": "Finish Randy's last mission."
+   "hidden": true,
+   "kind": "misc",
+   "stage": "S5",
+   "count": null,
+   "countLabel": null,
+   "missable": false,
+   "watch": true,
+   "unconfirmed": false,
+   "disagree": false,
+   "singleSource": false,
+   "short": "Tamatkan wishlist 16 mobil sport Randy.",
+   "guide": "Finish Randy's 16-car sports wishlist.",
+   "steps": [
+    {"text": "Questline Randy's Wish List berjalan otomatis setelah misi Ch3 Clonin' Keys, Makin' GS (curi Zorrusso dan dapatkan Key Cloner).", "sources": [1]},
+    {"text": "Kumpulkan 16 mobil sport wishlist; ikon hijau RK ada di barat Vice City, dan daftarnya dilacak di Map > Robberies > Randy's Wish List.", "sources": [1]},
+    {"text": "Mobil-mobil itu sering muncul di timur Vice City, Vice Beach, dan Ocean Beach.", "sources": [1]}
+   ]
   },
   {
    "id": 27,
    "name": "Spin On This!",
    "description": "Complete the final mission for Tyrone.",
    "grade": "bronze",
-   "guide": "Finish Tyrone's last mission."
+   "hidden": true,
+   "kind": "misc",
+   "stage": "S5",
+   "count": null,
+   "countLabel": null,
+   "missable": false,
+   "watch": true,
+   "unconfirmed": false,
+   "disagree": false,
+   "singleSource": false,
+   "short": "Tamatkan questline Tyrone (Jason-only, Ch3).",
+   "guide": "Finish Tyrone's questline (Jason-only, Chapter 3).",
+   "steps": [
+    {"text": "Jason-only, setelah misi Ch3 Here Kitty Kitty: hancurkan Synthetic Labs lewat quest Take Out Kitty Litter.", "sources": [1]},
+    {"text": "Lanjutkan ke quest Spin On This (Shut Down the Labs) sampai selesai.", "sources": [1]},
+    {"text": "Misi terakhirnya tersedia setelah story tamat.", "sources": [1]}
+   ]
   },
   {
    "id": 28,
    "name": "Positive Mental Attitude",
    "description": "Meditate at every spot across Leonida.",
    "grade": "bronze",
-   "guide": "Meditate at all 18 spots."
-  },
+   "hidden": true,
+   "kind": "activity",
+   "stage": "S5",
+   "count": 18,
+   "countLabel": "meditation spots",
+   "missable": true,
+   "watch": true,
+   "unconfirmed": false,
+   "disagree": true,
+   "singleSource": false,
+   "short": "Meditasi di semua spot — satu-satunya trofi yang mungkin missable.",
+   "guide": "Meditate at every spot — the one trophy that may be missable.",
+   "steps": [
+    {"text": "Meditasi di semua spot: 18 spot di 10 lokasi; meditasi dengan Jason DAN Lucia di tiap spot memberi +2 per lokasi.", "sources": [1, 2, 3, 4, 5]},
+    {"text": "PERHATIAN — mungkin missable: meditasi pertama ada di balkon rumah Jason di Ch1; setelah misi Down to Earth, pagi hari Lucia di dapur bilang mau meditasi — ikuti ke balkon dan pilih Accept. Spot ini hilang permanen setelah Ch1.", "sources": [1, 2]},
+    {"text": "Belum terkonfirmasi apakah meditasi Ch1 itu wajib untuk trofi; PowerPyx melakukannya lalu mendapat trofi. Untuk 100% cukup 15/18, jadi meditasi itu tidak bisa menggagalkan A Long Road.", "sources": [1, 3]},
+    {"text": "Catatan angka: sumber mencatat 18 vs 15 (trofi vs checklist dihitung beda). Lacak di Progress > Collections > Exploration > Meditations; meditasi terakhir butuh kedua karakter bisa dimainkan bersama (setelah Ch2 Coffee Break).", "sources": [1, 2, 3]}
+   ]
+  }
+,
   {
    "id": 29,
    "name": "Fair Game",
    "description": "Hunt a unique animal for Bret.",
    "grade": "bronze",
-   "guide": "Hunt the unique animal for Bret."
+   "hidden": true,
+   "kind": "misc",
+   "stage": "S2",
+   "count": null,
+   "countLabel": null,
+   "missable": false,
+   "watch": false,
+   "unconfirmed": true,
+   "disagree": false,
+   "singleSource": false,
+   "short": "Buru hewan unik untuk Bret — hewan mana belum terkonfirmasi.",
+   "guide": "Hunt a unique animal for Bret — which animal is still unconfirmed.",
+   "steps": [
+    {"text": "Questline Bret Vogel berjalan otomatis setelah misi Ch2 Coffee Break; Jason-only; SMS dari Bret membuka quest Veteran Hunted (Meet Bret) di Lummox County.", "sources": [1, 3, 4]},
+    {"text": "Quest pertama memberi senapan unik Killtelligence SM-69. Total ada 15 Target Decks (semuanya dihitung untuk 100%).", "sources": [1, 3]},
+    {"text": "BELUM TERKONFIRMASI: hewan mana yang membuka trofi ini belum diketahui — jangan percaya panduan yang mengklaim hewan tertentu.", "sources": [1, 3, 4]}
+   ]
   },
   {
    "id": 30,
    "name": "Don't Touch My Deck",
    "description": "Complete 3 Collectible Card sets.",
    "grade": "silver",
-   "guide": "Complete 3 collectible card sets (silver)."
+   "hidden": false,
+   "kind": "collectible",
+   "stage": "S6",
+   "count": 3,
+   "countLabel": "card sets",
+   "missable": false,
+   "watch": false,
+   "unconfirmed": false,
+   "disagree": false,
+   "singleSource": false,
+   "short": "Selesaikan 3 set Collectible Card.",
+   "guide": "Complete 3 Collectible Card sets.",
+   "steps": [
+    {"text": "Selesaikan 3 set Collectible Card dari 18 set yang ada (15 set untuk 100%).", "sources": [1, 2, 3]}
+   ]
   },
   {
    "id": 31,
    "name": "You WAiNKer!",
    "description": "WAiNK It at 100 locations.",
    "grade": "silver",
-   "guide": "WAiNK It at 100 locations (silver)."
+   "hidden": false,
+   "kind": "collectible",
+   "stage": "S6",
+   "count": 100,
+   "countLabel": "WAiNK locations",
+   "missable": false,
+   "watch": false,
+   "unconfirmed": false,
+   "disagree": false,
+   "singleSource": false,
+   "short": "WAiNK di 100 lokasi.",
+   "guide": "WAiNK It at 100 locations.",
+   "steps": [
+    {"text": "WAiNK di 100 lokasi: 31 Landmarks, 35 Curiosities, 23 Sculptures — No Flusher tags tidak dihitung.", "sources": [1, 4]},
+    {"text": "Untuk scan, tahan Up + R1.", "sources": [1, 4]}
+   ]
   },
   {
    "id": 32,
    "name": "One Last Thing",
    "description": "Complete 50 Challenges.",
    "grade": "bronze",
-   "guide": "Finish 50 challenges."
+   "hidden": false,
+   "kind": "activity",
+   "stage": "S6",
+   "count": 50,
+   "countLabel": "challenges",
+   "missable": false,
+   "watch": false,
+   "unconfirmed": false,
+   "disagree": false,
+   "singleSource": false,
+   "short": "Selesaikan 50 dari 80 Challenges.",
+   "guide": "Finish 50 of the 80 Challenges.",
+   "steps": [
+    {"text": "Selesaikan 50 dari 80 Challenges (70 untuk 100%); lacak di Progress > Challenges.", "sources": [1, 2, 3]}
+   ]
   },
   {
    "id": 33,
    "name": "Hot Together",
    "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
    "grade": "bronze",
-   "guide": "Lose a 4-star wanted level with your partner."
+   "hidden": false,
+   "kind": "crime",
+   "stage": "S4",
+   "count": null,
+   "countLabel": null,
+   "missable": false,
+   "watch": false,
+   "unconfirmed": false,
+   "disagree": false,
+   "singleSource": false,
+   "short": "Hilang dari Wanted Level 4 bintang bersama partner.",
+   "guide": "Lose a 4-star Wanted Level with your partner.",
+   "steps": [
+    {"text": "Butuh setelah Ch2 Coffee Break: panggil partner dengan tahan Right + Triangle, lalu buat Wanted Level 4 bintang.", "sources": [1, 3, 4]},
+    {"text": "Hilang dari kejaran dan keluar dari zona heat merah. Cara termudah: terowongan kereta di utara Ambrosia (Kelly County) — polisi sulit mengikuti dan helikopter tidak bisa melihat.", "sources": [1, 3, 4]},
+    {"text": "Trofi ini juga bisa pop otomatis saat misi opsional Ch4 That's Where The Money Is, karena bank vault selalu memberi 4 bintang.", "sources": [1]}
+   ]
   },
   {
    "id": 34,
    "name": "Retail Therapy",
    "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
    "grade": "bronze",
-   "guide": "Rob 3 shops in a row with your partner, keeping your wanted level."
+   "hidden": false,
+   "kind": "crime",
+   "stage": "S4",
+   "count": null,
+   "countLabel": null,
+   "missable": false,
+   "watch": true,
+   "unconfirmed": false,
+   "disagree": false,
+   "singleSource": false,
+   "short": "Rampok 3 toko beruntun bersama partner tanpa kehilangan Wanted Level.",
+   "guide": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+   "steps": [
+    {"text": "Butuh setelah Coffee Break, bersama partner: rampok 3 toko beruntun tanpa kehilangan Wanted Level.", "sources": [1, 3, 4]},
+    {"text": "Pertahankan wanted merah/biru berkedip (bukan heat merah); pakai armored vest, sticky bombs, dan Zombix/Adrenaline.", "sources": [1, 3, 4]},
+    {"text": "Kalau trofi tidak pop setelah toko ke-3, rampok toko ke-4 — pop-nya bisa tertunda sekitar 30 detik setelah keluar dari toko ke-3.", "sources": [1, 3, 4]},
+    {"text": "Lokasi bagus: 3 jewelry store di utara Vice City (setelah misi Ch3 Yasmani's Jewelry Jobs); rampok beberapa item dan bobol safe di ruang belakang dengan sticky bombs.", "sources": [1, 3, 4]}
+   ]
   },
   {
    "id": 35,
    "name": "Whip It Good",
    "description": "Discover 100 vehicles.",
    "grade": "bronze",
-   "guide": "Discover 100 vehicles."
+   "hidden": false,
+   "kind": "collectible",
+   "stage": "S6",
+   "count": 100,
+   "countLabel": "vehicles discovered",
+   "missable": false,
+   "watch": false,
+   "unconfirmed": false,
+   "disagree": false,
+   "singleSource": false,
+   "short": "Discover 100 kendaraan dengan scan WAiNK.",
+   "guide": "Discover 100 vehicles with a WAiNK scan.",
+   "steps": [
+    {"text": "Discover 100 kendaraan dengan scan WAiNK (200 dari 277 untuk 100%); total ada 557 kendaraan saat launch.", "sources": [1, 2, 3, 4]},
+    {"text": "Kendaraan tidak perlu dikendarai — cukup di-scan. Lacak di Touchpad > Progress > Vehicles.", "sources": [1, 2, 3]}
+   ]
   },
   {
    "id": 36,
    "name": "Gunslinger",
    "description": "Take down 5 enemies in a single use of Combat Focus.",
    "grade": "bronze",
-   "guide": "Down 5 enemies in one Combat Focus."
+   "hidden": false,
+   "kind": "crime",
+   "stage": "S5",
+   "count": null,
+   "countLabel": null,
+   "missable": false,
+   "watch": false,
+   "unconfirmed": false,
+   "disagree": false,
+   "singleSource": false,
+   "short": "Kalahkan 5 musuh dalam satu kali Combat Focus.",
+   "guide": "Down 5 enemies in a single use of Combat Focus.",
+   "steps": [
+    {"text": "Kalahkan 5 musuh dalam satu kali Combat Focus: aktifkan dengan L3+R3 saat membidik; bar fokusnya ungu.", "sources": [1, 3]},
+    {"text": "Isi fokus dulu (makan/minum, cuci muka/mandi, atau Adrenaline: tahan L1 > Triangle); senapan serbu (Duke 556) paling akurat. Target terbaik: kriminal di Gang Operations.", "sources": [1, 3]},
+    {"text": "Tidak berfungsi pada tentara, polisi, atau warga sipil. Fokus punya 4 level (naik lewat Shooting Range, Golf, Pool, memancing, dan headshot).", "sources": [1, 3]}
+   ]
   },
   {
    "id": 37,
    "name": "Catch Me If You Can",
    "description": "Make an unscheduled departure at VCIA.",
    "grade": "bronze",
-   "guide": "Leave VCIA in an unscheduled way."
+   "hidden": false,
+   "kind": "crime",
+   "stage": "S5",
+   "count": null,
+   "countLabel": null,
+   "missable": false,
+   "watch": false,
+   "unconfirmed": false,
+   "disagree": false,
+   "singleSource": false,
+   "short": "Curi pesawat penumpang di VCIA dan terbang menjauh.",
+   "guide": "Steal a passenger plane at VCIA and fly away.",
+   "steps": [
+    {"text": "Curi pesawat penumpang di VCIA yang terhubung boarding bridge (bukan yang parkir di lapangan), lalu terbang sekitar 1 km dari bandara.", "sources": [1, 3, 4]},
+    {"text": "Termudah di terminal E3/E4: terobos pagar lapangan, naik tangga di samping boarding bridge langsung ke pesawat, masuk kokpit, mundur ke landasan, lalu lepas landas.", "sources": [1, 3, 4]}
+   ]
   },
   {
    "id": 38,
    "name": "Challenging Tank",
    "description": "Kinda hot in these Rhinos.",
    "grade": "bronze",
-   "guide": "Deal with Rhinos (tanks)."
+   "hidden": true,
+   "kind": "crime",
+   "stage": "S5",
+   "count": null,
+   "countLabel": null,
+   "missable": false,
+   "watch": false,
+   "unconfirmed": false,
+   "disagree": false,
+   "singleSource": false,
+   "short": "Curi tank Rhino di Mile Zero Air Station.",
+   "guide": "Steal a Rhino tank at Mile Zero Air Station.",
+   "steps": [
+    {"text": "Curi tank Rhino di Mile Zero Air Station, pulau di barat daya peta (Mariana County); tanknya ada di selatan pangkalan.", "sources": [1, 3, 4]},
+    {"text": "Masuk lewat gerbang atau stunt jump di pintu tenggara, lalu tembak musuh dari dalam tank.", "sources": [1, 3, 4]}
+   ]
   },
   {
    "id": 39,
    "name": "Sneakthief",
    "description": "Rob a jewelry store without being detected.",
    "grade": "bronze",
-   "guide": "Rob a jewelry store without being seen."
+   "hidden": false,
+   "kind": "crime",
+   "stage": "S3",
+   "count": null,
+   "countLabel": null,
+   "missable": false,
+   "watch": false,
+   "unconfirmed": false,
+   "disagree": false,
+   "singleSource": false,
+   "short": "Rampok jewelry store tanpa ketahuan.",
+   "guide": "Rob a jewelry store without being detected.",
+   "steps": [
+    {"text": "Butuh setelah misi Ch3 Yasmani's Jewelry Jobs, yang memberi Snap Gun untuk lockpick pintu belakang tanpa alarm.", "sources": [1, 3, 4]},
+    {"text": "Masuk lewat pintu belakang, cari catatan berisi kode safe, loot safe, lalu hancurkan rekaman CCTV dan matikan alarm di ruang belakang.", "sources": [1, 3, 4]},
+    {"text": "Lokasi bagus: Richardson Jewelry & Diamonds, Vice City.", "sources": [1, 3, 4]}
+   ]
   },
   {
    "id": 40,
    "name": "Maximum Withdrawal",
    "description": "Rob 5 Bank Vaults and escape.",
    "grade": "silver",
-   "guide": "Rob 5 bank vaults and escape (silver)."
+   "hidden": false,
+   "kind": "crime",
+   "stage": "S4",
+   "count": 5,
+   "countLabel": "bank vaults",
+   "missable": false,
+   "watch": true,
+   "unconfirmed": false,
+   "disagree": false,
+   "singleSource": false,
+   "short": "Rampok 5 dari 8 bank vault lalu kabur.",
+   "guide": "Rob 5 of the 8 bank vaults and escape.",
+   "steps": [
+    {"text": "Butuh misi opsional Ch4 That's Where The Money Is (Wait at the Cafe): ikuti security van sampai berhenti di bank; penjaga membawa briefcase dan vault terbuka — masuk cepat.", "sources": [1, 3, 4]},
+    {"text": "Bawa partner dan oper 1 tas (tahan Right). Setelah itu bayar Yasmani $10.000 untuk tips van (butuh 2 Payday Loans dulu).", "sources": [1, 3, 4]},
+    {"text": "Rampok 5 dari 8 bank vault lalu kabur; vault selalu memberi 4 bintang, jadi kabur dengan motor cepat. Sekali rampok bisa sampai $205.000 per bank.", "sources": [1, 3, 4]}
+   ]
   },
   {
    "id": 41,
    "name": "A Classic Blitz Play",
    "description": "Rob an Armored Truck and escape.",
    "grade": "bronze",
-   "guide": "Rob an armored truck and escape."
+   "hidden": false,
+   "kind": "crime",
+   "stage": "S5",
+   "count": null,
+   "countLabel": null,
+   "missable": false,
+   "watch": false,
+   "unconfirmed": false,
+   "disagree": false,
+   "singleSource": false,
+   "short": "Rampok armored truck lalu kabur.",
+   "guide": "Rob an armored truck and escape.",
+   "steps": [
+    {"text": "Otomatis lewat misi That's Where The Money Is: merampok vault bank besar dihitung sebagai armored truck.", "sources": [1, 4]},
+    {"text": "Atau manual: blokir armored truck dekat bank di Vice City, tempel sticky bomb di pintu belakang, ledakkan, lalu kabur dari radius heat merah. Sticky bomb ada di belakang toko Yasmani.", "sources": [1, 4]}
+   ]
   },
   {
    "id": 42,
    "name": "The Goodtime State",
    "description": "Explore all of Leonida.",
    "grade": "bronze",
-   "guide": "Explore all 52 areas of Leonida."
-  },
+   "hidden": false,
+   "kind": "collectible",
+   "stage": "S6",
+   "count": null,
+   "countLabel": null,
+   "missable": false,
+   "watch": false,
+   "unconfirmed": false,
+   "disagree": false,
+   "singleSource": false,
+   "short": "Jelajahi seluruh Leonida sampai fog hilang dari peta.",
+   "guide": "Explore all of Leonida until the fog is gone from the map.",
+   "steps": [
+    {"text": "Jelajahi seluruh Leonida sampai fog hilang dari seluruh peta; pesawat paling cepat untuk ini.", "sources": [1, 2, 3, 4]}
+   ]
+  }
+,
   {
    "id": 43,
    "name": "Pest Control",
    "description": "Rob an Illegal Operation belonging to each gang.",
    "grade": "bronze",
-   "guide": "Rob one illegal operation of each of the 9 gangs."
+   "hidden": false,
+   "kind": "crime",
+   "stage": "S5",
+   "count": 9,
+   "countLabel": "gangs",
+   "missable": false,
+   "watch": false,
+   "unconfirmed": false,
+   "disagree": false,
+   "singleSource": false,
+   "short": "Rampok 1 Illegal Operation dari tiap gang (9 gang).",
+   "guide": "Rob one Illegal Operation from each of the 9 gangs.",
+   "steps": [
+    {"text": "Rampok 1 Illegal Operation dari tiap gang: 9 gang, 39 operasi total (semuanya untuk 100%). Ikonnya kuning di peta.", "sources": [1, 3, 4]},
+    {"text": "Lacak di Progress > Gangs.", "sources": [1, 3, 4]}
+   ]
   },
   {
    "id": 44,
    "name": "In The Beginning…",
    "description": "Enjoy a cocktail with a view on Ocean Beach.",
    "grade": "bronze",
-   "guide": "Have a cocktail with a view on Ocean Beach."
+   "hidden": true,
+   "kind": "misc",
+   "stage": "S5",
+   "count": null,
+   "countLabel": null,
+   "missable": false,
+   "watch": false,
+   "unconfirmed": true,
+   "disagree": false,
+   "singleSource": true,
+   "short": "Koktail dengan pemandangan di Ocean Beach — dilaporkan 1 sumber.",
+   "guide": "Have a cocktail with a view on Ocean Beach — reported by one source only.",
+   "steps": [
+    {"text": "Dilaporkan 1 sumber (PowerPyx): pergi ke Ocean View Rooftop Bar di Ocean Beach, beli Apple Martini, dan minum sambil berdiri di samping bar.", "sources": [1]},
+    {"text": "Belum dikonfirmasi sumber kedua — eGamers mencatat langkahnya belum terkonfirmasi. Kalau langkah ini tidak memicu trofi, jangan paksa; tunggu konfirmasi.", "sources": [3]}
+   ]
   },
   {
    "id": 45,
    "name": "Capital Offense",
    "description": "Smash your way out of a vehicle showroom in classic style.",
    "grade": "bronze",
-   "guide": "Smash out of a vehicle showroom in style."
+   "hidden": true,
+   "kind": "misc",
+   "stage": "S5",
+   "count": null,
+   "countLabel": null,
+   "missable": false,
+   "watch": false,
+   "unconfirmed": true,
+   "disagree": false,
+   "singleSource": true,
+   "short": "Tabrak keluar dari showroom kendaraan — dilaporkan 1 sumber.",
+   "guide": "Smash out of a vehicle showroom — reported by one source only.",
+   "steps": [
+    {"text": "Dilaporkan 1 sumber (PowerPyx): curi Banshee biru dari showroom di selatan Vice City — butuh Key Cloner dari misi Ch3 Clonin' Keys, Makin' Gs — lalu tabrak jendela showroom untuk keluar; hanya Banshee biru itu yang dihitung.", "sources": [1]},
+    {"text": "Belum dikonfirmasi sumber kedua — eGamers mencatat langkahnya belum terkonfirmasi.", "sources": [3]}
+   ]
   },
   {
    "id": 46,
    "name": "Let’s Go Bowling",
    "description": "Follow-through at the Kolt & Associates' bowling alley.",
    "grade": "bronze",
-   "guide": "Play bowling at the Kolt & Associates alley."
+   "hidden": true,
+   "kind": "misc",
+   "stage": "S2",
+   "count": null,
+   "countLabel": null,
+   "missable": false,
+   "watch": false,
+   "unconfirmed": false,
+   "disagree": true,
+   "singleSource": false,
+   "short": "Rampok Kingpin Bowling lalu kabur dari polisi.",
+   "guide": "Rob Kingpin Bowling, then lose the cops.",
+   "steps": [
+    {"text": "Versi PowerPyx: curi 3 barang berharga di Kingpin Bowling (gang operation, Port Gellhorn) — jam mewah di kantor tenggara, shotgun unik Gutterball Moreland 850 di meja timur laut, dan safe di lorong timur laut (ledakkan dengan sticky bombs); trofi pop setelah kabur dari polisi.", "sources": [1]},
+    {"text": "Misi opsional Ch2 Hit Kingpin Bowling terkait dengan tempat ini; kalau belum lengkap, lokasi ini bisa didatangi lagi — tidak missable.", "sources": [1]},
+    {"text": "Catatan: sumber lain setuju intinya (rampok Kingpin Bowling lalu hilang dari polisi), tapi redaksinya beda dan satu sumber bilang wording trofinya tidak jelas.", "sources": [4, 2, 3]}
+   ]
   },
   {
    "id": 47,
    "name": "Personal Best",
    "description": "A partnership with mass appeal.",
    "grade": "bronze",
-   "guide": "A partnership moment with mass appeal."
+   "hidden": true,
+   "kind": "activity",
+   "stage": "S5",
+   "count": null,
+   "countLabel": null,
+   "missable": false,
+   "watch": false,
+   "unconfirmed": false,
+   "disagree": false,
+   "singleSource": false,
+   "short": "Strength maksimum untuk Jason DAN Lucia bersamaan.",
+   "guide": "Max Strength for Jason AND Lucia at the same time.",
+   "steps": [
+    {"text": "Capai Strength maksimum untuk Jason DAN Lucia bersamaan; cek di Touchpad > Jason & Lucia > Strength (ikon hati). Butuh setelah Ch2 Coffee Break.", "sources": [1, 2]},
+    {"text": "Latihan bareng dengan memanggil partner: fitness club (filter Map > Activities) atau di rumah setelah story; saat satu karakter latihan, yang lain ikut menyelesaikan latihannya.", "sources": [1, 2]}
+   ]
   },
   {
    "id": 48,
    "name": "Actions Speak Louder",
    "description": "Choices made (for better or worse).",
    "grade": "bronze",
-   "guide": "Make choices (PSN tracks a count to 500)."
+   "hidden": true,
+   "kind": "misc",
+   "stage": "S5",
+   "count": 500,
+   "countLabel": "profile-changing actions",
+   "missable": false,
+   "watch": false,
+   "unconfirmed": false,
+   "disagree": false,
+   "singleSource": true,
+   "short": "500 aksi yang mengubah Criminal Profile.",
+   "guide": "500 actions that change your Criminal Profile.",
+   "steps": [
+    {"text": "Kumpulkan 500 aksi yang mengubah Criminal Profile; lacak dengan mengklik trofi ini di daftar trofi.", "sources": [1, 3]},
+    {"text": "Nyalakan notifikasinya: Settings > UI > HUD Notifications > Criminal Profile = On.", "sources": [1]},
+    {"text": "Profilnya: Professional, Hardened, Violent, Psycho, Irredeemable — Irredeemable PERMANEN, jadi hindari kekerasan berlebihan. Umumnya trofi ini didapat pasif selama mengerjakan trofi lain. Angka 500 berasal dari 1 sumber (GTABase via eGamers).", "sources": [1, 3]}
+   ]
   },
   {
    "id": 49,
    "name": "Bad Luck, I Guess",
    "description": "Second time's the charm.",
    "grade": "bronze",
-   "guide": "Succeed on a second try."
+   "hidden": true,
+   "kind": "misc",
+   "stage": "S5",
+   "count": null,
+   "countLabel": null,
+   "missable": false,
+   "watch": false,
+   "unconfirmed": true,
+   "disagree": false,
+   "singleSource": false,
+   "short": "BELUM TERKONFIRMASI — diduga terkait toko Payday Loans.",
+   "guide": "UNCONFIRMED — suspected to involve the Payday Loans shop.",
+   "steps": [
+    {"text": "BELUM TERKONFIRMASI: PowerPyx menduga trofi ini terkait toko Payday Loans dari Prologue (Little Cuba), mungkin merampoknya lagi dengan cara tertentu — tapi itu baru dugaan.", "sources": [1]},
+    {"text": "Tidak ada langkah pasti yang bisa ditulis; panduan ini akan diperbarui begitu ada konfirmasi.", "sources": [1]}
+   ]
   },
   {
    "id": 50,
    "name": "The Truth Is Out There",
    "description": "What the hell just happened?",
    "grade": "bronze",
-   "guide": "Witness something strange."
+   "hidden": true,
+   "kind": "misc",
+   "stage": "S5",
+   "count": null,
+   "countLabel": null,
+   "missable": false,
+   "watch": false,
+   "unconfirmed": true,
+   "disagree": false,
+   "singleSource": false,
+   "short": "BELUM TERKONFIRMASI — diduga peristiwa aneh di Leonida.",
+   "guide": "UNCONFIRMED — suspected to involve a strange event somewhere in Leonida.",
+   "steps": [
+    {"text": "BELUM TERKONFIRMASI: GTABase (via eGamers) menduga trofi ini terkait peristiwa aneh di suatu tempat di Leonida — tanpa lokasi atau pemicu yang jelas.", "sources": [3]},
+    {"text": "Tidak ada langkah pasti yang bisa ditulis; panduan ini akan diperbarui begitu ada konfirmasi.", "sources": [3]}
+   ]
   },
   {
    "id": 51,
    "name": "Ten Pin",
    "description": "Bowl 'em over with a melee drive-by.",
    "grade": "bronze",
-   "guide": "Knock someone down with a melee drive-by."
+   "hidden": true,
+   "kind": "misc",
+   "stage": "S5",
+   "count": null,
+   "countLabel": null,
+   "missable": false,
+   "watch": false,
+   "unconfirmed": true,
+   "disagree": false,
+   "singleSource": false,
+   "short": "BELUM TERKONFIRMASI — langkah pastinya belum diketahui.",
+   "guide": "UNCONFIRMED — no confirmed method yet.",
+   "steps": [
+    {"text": "Deskripsi resminya: Bowl 'em over with a melee drive-by. Langkah PASTI untuk memicunya belum terkonfirmasi di sumber mana pun.", "sources": [0, 1]},
+    {"text": "Tidak ada langkah pasti yang bisa ditulis; panduan ini akan diperbarui begitu ada konfirmasi.", "sources": [1]}
+   ]
   },
   {
    "id": 52,
    "name": "Dime on the Dollar",
    "description": "Earn $250,000 laundering Marked Bills through your contacts.",
    "grade": "bronze",
-   "guide": "Launder $250,000 of marked bills."
+   "hidden": false,
+   "kind": "money",
+   "stage": "S6",
+   "count": 250000,
+   "countLabel": "$ marked bills laundered",
+   "missable": false,
+   "watch": false,
+   "unconfirmed": false,
+   "disagree": false,
+   "singleSource": false,
+   "short": "Cuci $250.000 Marked Bills lewat kontak/fence.",
+   "guide": "Launder $250,000 of Marked Bills through your contacts.",
+   "steps": [
+    {"text": "Cuci $250.000 Marked Bills lewat kontak/fence (total berjalan); Yasmani membayar paling besar.", "sources": [1, 3, 4]}
+   ]
   },
   {
    "id": 53,
    "name": "Treat Yo Self",
    "description": "Spend $100,000 across all shops.",
    "grade": "bronze",
-   "guide": "Spend $100,000 in shops."
+   "hidden": false,
+   "kind": "money",
+   "stage": "S6",
+   "count": 100000,
+   "countLabel": "$ spent in shops",
+   "missable": false,
+   "watch": false,
+   "unconfirmed": false,
+   "disagree": false,
+   "singleSource": false,
+   "short": "Belanja total $100.000 di semua toko.",
+   "guide": "Spend $100,000 across all shops.",
+   "steps": [
+    {"text": "Belanja total $100.000 di semua toko (total berjalan).", "sources": [1, 3, 4]}
+   ]
   },
   {
    "id": 54,
    "name": "Little Boxes",
    "description": "Purchase all garage properties.",
    "grade": "bronze",
-   "guide": "Buy all 8 garage properties."
+   "hidden": false,
+   "kind": "money",
+   "stage": "S6",
+   "count": 8,
+   "countLabel": "garage properties",
+   "missable": false,
+   "watch": false,
+   "unconfirmed": false,
+   "disagree": false,
+   "singleSource": false,
+   "short": "Beli semua 8 properti garasi.",
+   "guide": "Buy all 8 garage properties.",
+   "steps": [
+    {"text": "Beli semua 8 properti garasi yang dijual (total sekitar $160.000) lewat aplikasi Vice City Real Estate.", "sources": [1, 3, 4]},
+    {"text": "4 garasi dari story tidak dihitung — hanya yang dibeli yang masuk hitungan.", "sources": [1, 3, 4]}
+   ]
   },
   {
    "id": 55,
    "name": "On the Spot",
    "description": "Register 10 vehicles to the Scooter Bros app.",
    "grade": "bronze",
-   "guide": "Register 10 vehicles in the Scooter Bros app."
+   "hidden": false,
+   "kind": "money",
+   "stage": "S6",
+   "count": 10,
+   "countLabel": "vehicles registered",
+   "missable": false,
+   "watch": false,
+   "unconfirmed": false,
+   "disagree": false,
+   "singleSource": false,
+   "short": "Daftarkan 10 kendaraan ke aplikasi Scooter Bros.",
+   "guide": "Register 10 vehicles in the Scooter Bros app.",
+   "steps": [
+    {"text": "Daftarkan 10 kendaraan ke aplikasi Scooter Bros (aplikasi didapat dari Moses di Ch2).", "sources": [1, 3, 4]},
+    {"text": "Siapkan slot garasi kosong sebelum mendaftarkan kendaraan.", "sources": [1, 3, 4]}
+   ]
   }
  ]
 }

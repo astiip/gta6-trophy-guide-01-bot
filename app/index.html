@@ -3,23 +3,49 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>GTA VI trophy checklist</title>
+<title>Platinum Hunt — Leonida · GTA VI Trophy Guide</title>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<header>
-  <h1>GTA VI trophy checklist</h1>
-  <p id="progress">0 of 55 earned</p>
+<header class="topbar">
+  <div class="title-block">
+    <h1>PLATINUM HUNT <span class="dash">—</span> LEONIDA</h1>
+    <p class="subtitle">GTA VI · PlayStation 5 · 55 trophies · unofficial fan guide · 100% offline</p>
+  </div>
+  <div class="progress-block">
+    <div class="progress-num" id="progress-num">0 / 55 earned</div>
+    <div class="progress-bar"><div class="progress-fill" id="progress-fill"></div></div>
+    <div class="progress-pct" id="progress-pct">0%</div>
+  </div>
+  <div class="top-actions">
+    <button id="export" type="button">Export</button>
+    <label class="import-btn">Import <input id="import" type="file" accept="application/json"></label>
+    <button id="spoiler-toggle" type="button">Spoilers: hidden</button>
+    <span class="saved-note">Saved in this browser</span>
+  </div>
 </header>
-<div class="controls">
-  <label>Grade <select id="grade"><option value="all">All</option><option value="platinum">Platinum</option><option value="gold">Gold</option><option value="silver">Silver</option><option value="bronze">Bronze</option></select></label>
-  <button id="export" type="button">Export progress</button>
-  <label class="import">Import progress <input id="import" type="file" accept="application/json"></label>
-</div>
-<table>
-  <thead><tr><th>Earned</th><th>Trophy</th><th>Grade</th><th>How to get it</th></tr></thead>
-  <tbody id="rows"></tbody>
-</table>
+
+<nav class="roadmap" id="roadmap" aria-label="Roadmap stages"></nav>
+
+<section class="audit" id="audit" aria-label="Audit strip"></section>
+
+<div class="filters" id="filters" aria-label="Filters"></div>
+
+<main class="body">
+  <section class="list-col" id="list-col" aria-label="Trophy checklist"></section>
+  <aside class="detail-col" id="detail" aria-label="Trophy detail"></aside>
+</main>
+
+<section class="sources" id="sources" aria-label="Sources">
+  <h2>SOURCES</h2>
+  <p class="sources-note">Every step is our own wording of what the source says — sources are cited, never copied. A link opens only when you click it; the app itself fetches nothing.</p>
+  <ol id="source-list"></ol>
+</section>
+
+<footer class="foot">
+  <p>Unofficial fan guide. Not affiliated with Rockstar Games, Take-Two, or PlayStation. Trophy names and descriptions are shown as PlayStation publishes them; all guidance text is our own wording. Works fully offline — no network requests, no fonts, no images loaded from outside this folder.</p>
+</footer>
+
 <script type="module" src="app.js"></script>
 </body>
 </html>
